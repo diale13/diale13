@@ -1,3 +1,4 @@
+[![MasterHead](https://thehacktoday.com/wp-content/uploads/2017/06/10-Things-to-do-after-Installing-Kali-Linux-2017.png)](https://github.com/diale13/diale13)
 <h1 align="center">Hi 👋, I'm Diego Franggi</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
