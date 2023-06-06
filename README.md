@@ -25,7 +25,7 @@
     <img title="JavaScript" alt="JavaScript" src="https://raw.githubusercontent.com/diale13/diale13/master/assets/javascript.png" width="50" height="50" style="vertical-align:down; margin:4px"/>
     <img title="HTML" alt="HTML" src="https://raw.githubusercontent.com/diale13/diale13/master/assets/linux.png" width="50" height="50" style="vertical-align:down; margin:4px"/>
     <img title="NodeJS" alt="NodeJS" src="https://raw.githubusercontent.com/diale13/diale13/master/assets/nodejs.png" width="50" height="50" style="vertical-align:down; margin:4px"/>
-    <img title="React" alt="React" src="https://raw.githubusercontent.com/diale13/diale13/master/assets/react.png" width="50" height="50" style="vertical-align:down; margin:4px"/>
+    <img title="React" alt="React" src="https://raw.githubusercontent.com/diale13/diale13/master/assets/csharp.png" width="50" height="50" style="vertical-align:down; margin:4px"/>
     <img title="MongoDB" alt="MongoDB" src="https://raw.githubusercontent.com/diale13/diale13/master/assets/go.png" width="50" height="50" style="vertical-align:down; margin:4px"/>
 </p>
 
