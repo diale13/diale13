@@ -19,7 +19,6 @@
     <img title="KaliLinux" alt="KaliLinux" src="https://raw.githubusercontent.com/diale13/diale13/master/assets/kali.png" width="50" height="50" style="vertical-align:down; margin:4px"/>
     <img title="BurpSuite" alt="BurpSuite" src="https://raw.githubusercontent.com/diale13/diale13/master/assets/burpsuite.svg" width="50" height="50" style="vertical-align:down; margin:4px"/>
     <img title="Metasploit" alt="Metasploit" src="https://raw.githubusercontent.com/diale13/diale13/master/assets/metasploit.svg" width="50" height="50" style="vertical-align:down; margin:4px"/>
-    <img title="VSCode" alt="VSCode" src="https://raw.githubusercontent.com/diale13/diale13/master/assets/vscode.png" width="50" height="50" style="vertical-align:down; margin:4px"/>
     <img title="Bash" alt="Bash" src="https://raw.githubusercontent.com/diale13/diale13/master/assets/bash.png" width="50" height="50" style="vertical-align:down; margin:4px"/>
     <img title="Python" alt="Python" src="https://raw.githubusercontent.com/diale13/diale13/master/assets/python.png" width="50" height="50" style="vertical-align:down; margin:4px"/>
     <img title="JavaScript" alt="JavaScript" src="https://raw.githubusercontent.com/diale13/diale13/master/assets/javascript.png" width="50" height="50" style="vertical-align:down; margin:4px"/>
