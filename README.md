@@ -21,10 +21,9 @@
       <img src="https://img.shields.io/badge/-Kali%20Linux-181717?style=flat-square&logo=kalilinux" alt="kalilinux" height="50px"/>
       <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="github" height="50px"/>
       <img src="https://img.shields.io/badge/-Linux-181717?style=flat-square&logo=linux" alt="linux" height="50px"/>
-      <img src="https://img.shields.io/badge/-PowerShell-181717?style=flat-square&logo=powershell" alt="powershell" height="50px"/>
+      <img src="https://img.shields.io/badge/-JavaScript-181717?style=flat-square&logo=javascript" alt="powershell" height="50px"/>
       <img src="https://img.shields.io/badge/-CSharp-181717?style=flat-square&logo=csharp" alt="csharp" height="50px"/>
       <img src="https://img.shields.io/badge/-Docker-181717?style=flat-square&logo=docker" alt="docker" height="50px"/>
-      <img src="https://img.shields.io/badge/-Bash-181717?style=flat-square&logo=shell" alt="bash" height="50px"/>
       <img src="https://img.shields.io/badge/-Go-181717?style=flat-square&logo=go" alt="go" height="50px"/>
       <img src="https://img.shields.io/badge/-AWS-181717?style=flat-square&logo=amazon" alt="aws" height="50px"/>
       <img src="https://img.shields.io/badge/-Azure-181717?style=flat-square&logo=microsoft-azure" alt="aws" height="50px"/>
