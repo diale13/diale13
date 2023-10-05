@@ -33,7 +33,6 @@
 
 
 ## 🔍 Find me on
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://uy.linkedin.com/in/diego-franggi-9a43ba140/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/diego-franggi-9a43ba140/" height="30" width="40" /></a>
 <a href="/https://app.gitbook.com/@diegofranggi/s/personalwiki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://app.gitbook.com/@diegofranggi/s/personalwiki/" height="30" width="40" /></a>
