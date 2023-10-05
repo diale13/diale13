@@ -15,17 +15,21 @@
 
 
 ## 🛠 My skills include
-<p align="left">
-    <img title="KaliLinux" alt="KaliLinux" src="https://raw.githubusercontent.com/diale13/diale13/master/assets/kali.png" width="50" height="50" style="vertical-align:down; margin:4px"/>
-    <img title="BurpSuite" alt="BurpSuite" src="https://raw.githubusercontent.com/diale13/diale13/master/assets/burpsuite.svg" width="50" height="50" style="vertical-align:down; margin:4px"/>
-    <img title="Metasploit" alt="Metasploit" src="https://raw.githubusercontent.com/diale13/diale13/master/assets/metasploit.svg" width="50" height="50" style="vertical-align:down; margin:4px"/>
-    <img title="Bash" alt="Bash" src="https://raw.githubusercontent.com/diale13/diale13/master/assets/bash.png" width="50" height="50" style="vertical-align:down; margin:4px"/>
-    <img title="Python" alt="Python" src="https://raw.githubusercontent.com/diale13/diale13/master/assets/python.png" width="50" height="50" style="vertical-align:down; margin:4px"/>
-    <img title="JavaScript" alt="JavaScript" src="https://raw.githubusercontent.com/diale13/diale13/master/assets/javascript.png" width="50" height="50" style="vertical-align:down; margin:4px"/>
-    <img title="HTML" alt="HTML" src="https://raw.githubusercontent.com/diale13/diale13/master/assets/linux.png" width="50" height="50" style="vertical-align:down; margin:4px"/>
-    <img title="NodeJS" alt="NodeJS" src="https://raw.githubusercontent.com/diale13/diale13/master/assets/nodejs.png" width="50" height="50" style="vertical-align:down; margin:4px"/>
-    <img title="React" alt="React" src="https://raw.githubusercontent.com/diale13/diale13/master/assets/csharp.png" width="50" height="50" style="vertical-align:down; margin:4px"/>
-    <img title="MongoDB" alt="MongoDB" src="https://raw.githubusercontent.com/diale13/diale13/master/assets/go.png" width="50" height="50" style="vertical-align:down; margin:4px"/>
+
+<p align="center">
+      <img src="https://img.shields.io/badge/-Python-181717?style=flat-square&logo=python" alt="python" height="50px"/>
+      <img src="https://img.shields.io/badge/-Kali%20Linux-181717?style=flat-square&logo=kalilinux" alt="kalilinux" height="50px"/>
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="github" height="50px"/>
+      <img src="https://img.shields.io/badge/-Linux-181717?style=flat-square&logo=linux" alt="linux" height="50px"/>
+      <img src="https://img.shields.io/badge/-PowerShell-181717?style=flat-square&logo=powershell" alt="powershell" height="50px"/>
+      <img src="https://img.shields.io/badge/-CSharp-181717?style=flat-square&logo=csharp" alt="csharp" height="50px"/>
+      <img src="https://img.shields.io/badge/-Docker-181717?style=flat-square&logo=docker" alt="docker" height="50px"/>
+      <img src="https://img.shields.io/badge/-Bash-181717?style=flat-square&logo=shell" alt="bash" height="50px"/>
+      <img src="https://img.shields.io/badge/-Go-181717?style=flat-square&logo=go" alt="go" height="50px"/>
+      <img src="https://img.shields.io/badge/-AWS-181717?style=flat-square&logo=amazon" alt="aws" height="50px"/>
+      <img src="https://img.shields.io/badge/-Azure-181717?style=flat-square&logo=microsoft-azure" alt="aws" height="50px"/>
+      <img src="https://img.shields.io/badge/-VSCode-181717?style=flat-square&logo=visualstudiocode" alt="vscode" height="50px"/>
+      <img src="https://img.shields.io/badge/-Debian-181717?style=flat-square&logo=debian" alt="debian" height="50px"/>
 </p>
 
 
